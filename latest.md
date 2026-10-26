@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-10-26 05:15)
+# Whoop snapshot (UTC 2026-10-26 11:00)
 
 Latest recovery (2026-10-25T13:07:09.644Z): score 28.0%, HRV 52.26928 ms, RHR 59.0 bpm
 Latest sleep (ended 2026-10-25T12:59:13.510Z): 7.73 h asleep, performance 83.0%, efficiency 91.513756%
@@ -17,7 +17,7 @@ Recent workouts:
 - 2026-10-23T12:47:00.140Z weightlifting strain 9.318161 avgHR 102
 - 2026-10-23T01:16:12.359Z soccer strain 16.642048 avgHR 136
 
-Latest day strain: 10.193496 (cycle started 2026-10-25T04:32:19.100Z)
+Latest day strain: 10.195336 (cycle started 2026-10-25T04:32:19.100Z)
 
 Note: today's recovery only exists after the athlete wakes and Whoop scores sleep.
 
@@ -27,4 +27,13 @@ Activities (Garmin via Intervals, newest first):
 - no activities found
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
-- 2026-10-26: RHR 55
+- 2026-10-26: RHR 56
+- 2026-10-25: readiness 28.0, RHR 59, HRV 52.26928, SpO2 96.0, sleepScore 83.0, sleep 7.7 h
+- 2026-10-23: readiness 18.0, RHR 60, HRV 49.877586, SpO2 96.0, sleepScore 74.0, sleep 6.1 h
+- 2026-10-22: readiness 62.0, RHR 54, HRV 92.92577, SpO2 96.0, sleepScore 81.0, sleep 7.4 h
+- 2026-10-21: readiness 69.0, RHR 54, HRV 102.96029, SpO2 90.0, sleepScore 80.0, sleep 7.5 h
+- 2026-10-20: readiness 57.0, RHR 54, HRV 90.68429, SpO2 98.0, sleepScore 80.0, sleep 8.1 h
+- 2026-10-19: readiness 21.0, RHR 58, HRV 54.690125, SpO2 97.0, sleepScore 62.0, sleep 5.5 h
+- 2026-10-18: readiness 29.0, RHR 59, HRV 64.50952, SpO2 95.0, sleepScore 82.0, sleep 8.4 h
+- 2026-10-17: readiness 30.0, RHR 57, HRV 82.37586, SpO2 96.0, sleepScore 54.0, sleep 4.8 h
+- 2026-10-16: readiness 49.0, RHR 54, HRV 88.37164, SpO2 94.0, sleepScore 75.0, sleep 6.6 h
