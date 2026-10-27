@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-10-27 12:00)
+# Whoop snapshot (UTC 2026-10-27 12:30)
 
 Latest recovery (2026-10-27T11:07:37.664Z): score 67.0%, HRV 97.91389 ms, RHR 54.0 bpm
 Latest sleep (ended 2026-10-27T11:07:22.349Z): 6.82 h asleep, performance 73.0%, efficiency 86.12907%
@@ -6,6 +6,7 @@ Latest sleep (ended 2026-10-27T11:07:22.349Z): 6.82 h asleep, performance 73.0%,
 7-record averages: recovery 51.4%, HRV 82.1 ms, RHR 55.6 bpm, sleep 7.3 h
 
 Recent workouts:
+- 2026-10-27T11:28:04.740Z weightlifting strain 11.562962 avgHR 95
 - 2026-10-25T22:58:46.665Z cycling strain 9.629303 avgHR 114
 - 2026-10-25T00:37:43.785Z soccer strain 16.75804 avgHR 140
 - 2026-10-24T22:39:39.730Z weightlifting strain 11.635835 avgHR 94
@@ -15,25 +16,24 @@ Recent workouts:
 - 2026-10-23T14:20:00.910Z cycling strain 4.791806 avgHR 107
 - 2026-10-23T13:39:00.800Z swimming strain 6.2938747 avgHR 121
 - 2026-10-23T12:47:00.140Z weightlifting strain 9.318161 avgHR 102
-- 2026-10-23T01:16:12.359Z soccer strain 16.642048 avgHR 136
 
-Latest day strain: 4.207887 (cycle started 2026-10-27T03:02:52.772Z)
+Latest day strain: 11.549811 (cycle started 2026-10-27T03:02:52.772Z)
 
 Note: today's recovery only exists after the athlete wakes and Whoop scores sleep.
 
 ## Intervals.icu (last 21 days)
 
 Activities (Garmin via Intervals, newest first):
-- no activities found
+- 2026-10-27 06:28 WeightTraining: 0.0 km, 59 min, -, avgHR 100 maxHR 136, load 14
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
-- 2026-10-27: RHR 48, HRV 87.0, sleepScore 78.0, sleep 7.2 h
-- 2026-10-26: readiness 59.0, RHR 51, HRV 88.40288, SpO2 94.0, sleepScore 82.0, sleep 7.3 h
-- 2026-10-25: readiness 28.0, RHR 59, HRV 52.26928, SpO2 96.0, sleepScore 83.0, sleep 7.7 h
-- 2026-10-23: readiness 18.0, RHR 60, HRV 49.877586, SpO2 96.0, sleepScore 74.0, sleep 6.1 h
-- 2026-10-22: readiness 62.0, RHR 54, HRV 92.92577, SpO2 96.0, sleepScore 81.0, sleep 7.4 h
-- 2026-10-21: readiness 69.0, RHR 54, HRV 102.96029, SpO2 90.0, sleepScore 80.0, sleep 7.5 h
-- 2026-10-20: readiness 57.0, RHR 54, HRV 90.68429, SpO2 98.0, sleepScore 80.0, sleep 8.1 h
-- 2026-10-19: readiness 21.0, RHR 58, HRV 54.690125, SpO2 97.0, sleepScore 62.0, sleep 5.5 h
-- 2026-10-18: readiness 29.0, RHR 59, HRV 64.50952, SpO2 95.0, sleepScore 82.0, sleep 8.4 h
-- 2026-10-17: readiness 30.0, RHR 57, HRV 82.37586, SpO2 96.0, sleepScore 54.0, sleep 4.8 h
+- 2026-10-28: CTL 0 ATL 2 (form -2)
+- 2026-10-27: RHR 48, HRV 87.0, sleepScore 78.0, sleep 7.2 h, CTL 0 ATL 2 (form -2)
+- 2026-10-26: readiness 59.0, RHR 51, HRV 88.40288, SpO2 94.0, sleepScore 82.0, sleep 7.3 h, CTL 0 ATL 0 (form 0)
+- 2026-10-25: readiness 28.0, RHR 59, HRV 52.26928, SpO2 96.0, sleepScore 83.0, sleep 7.7 h, CTL 0 ATL 0 (form 0)
+- 2026-10-24: CTL 0 ATL 0 (form 0)
+- 2026-10-23: readiness 18.0, RHR 60, HRV 49.877586, SpO2 96.0, sleepScore 74.0, sleep 6.1 h, CTL 0 ATL 0 (form 0)
+- 2026-10-22: readiness 62.0, RHR 54, HRV 92.92577, SpO2 96.0, sleepScore 81.0, sleep 7.4 h, CTL 0 ATL 0 (form 0)
+- 2026-10-21: readiness 69.0, RHR 54, HRV 102.96029, SpO2 90.0, sleepScore 80.0, sleep 7.5 h, CTL 0 ATL 0 (form 0)
+- 2026-10-20: readiness 57.0, RHR 54, HRV 90.68429, SpO2 98.0, sleepScore 80.0, sleep 8.1 h, CTL 0 ATL 0 (form 0)
+- 2026-10-19: readiness 21.0, RHR 58, HRV 54.690125, SpO2 97.0, sleepScore 62.0, sleep 5.5 h, CTL 0 ATL 0 (form 0)
