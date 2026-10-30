@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-10-30 12:30)
+# Whoop snapshot (UTC 2026-10-30 13:00)
 
 Latest recovery (2026-10-30T11:21:12.129Z): score 93.0%, HRV 166.70958 ms, RHR 46.0 bpm
 Latest sleep (ended 2026-10-30T11:20:26.606Z): 6.48 h asleep, performance 80.0%, efficiency 91.34043%
@@ -17,21 +17,22 @@ Recent workouts:
 - 2026-10-24T14:00:00.110Z soccer strain 14.2590065 avgHR 133
 - 2026-10-24T13:33:00.120Z soccer strain 4.7172427 avgHR 108
 
-Latest day strain: 5.2079997 (cycle started 2026-10-30T04:12:18.718Z)
+Latest day strain: 8.715222 (cycle started 2026-10-30T04:12:18.718Z)
 
 Note: today's recovery only exists after the athlete wakes and Whoop scores sleep.
 
 ## Intervals.icu (last 21 days)
 
 Activities (Garmin via Intervals, newest first):
+- 2026-10-30 07:16 Swim: 0.5 km, 12 min, 2:28/100m, avgHR 133 maxHR 159, load 7
 - 2026-10-29 18:44 WeightTraining: 0.0 km, 119 min, -, avgHR 95 maxHR 131, load 28
 - 2026-10-28 07:23 VirtualRide (indoor): 18.5 km, 64 min, 17.0 km/h, avgHR 122 maxHR 152, load 27
 - 2026-10-27 07:31 VirtualRun (indoor): 4.1 km, 36 min, 8:54/km, avgHR 148 maxHR 164, load 28
 - 2026-10-27 06:28 WeightTraining: 0.0 km, 59 min, -, avgHR 100 maxHR 136, load 14
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
-- 2026-10-31: CTL 1 ATL 8 (form -7)
-- 2026-10-30: readiness 93.0, RHR 46, HRV 166.70958, SpO2 97.0, sleepScore 80.0, sleep 6.5 h, CTL 1 ATL 10 (form -8)
+- 2026-10-31: CTL 1 ATL 9 (form -8)
+- 2026-10-30: readiness 93.0, RHR 85, HRV 166.70958, SpO2 97.0, sleepScore 80.0, sleep 6.5 h, CTL 1 ATL 11 (form -9)
 - 2026-10-29: readiness 74.0, RHR 49, HRV 100.31538, SpO2 96.0, sleepScore 81.0, sleep 8.3 h, CTL 1 ATL 11 (form -10)
 - 2026-10-28: readiness 84.0, RHR 50, HRV 116.76482, SpO2 96.0, sleepScore 77.0, sleep 7.4 h, CTL 1 ATL 8 (form -7)
 - 2026-10-27: readiness 67.0, RHR 54, HRV 97.91389, SpO2 96.0, sleepScore 73.0, sleep 6.8 h, CTL 1 ATL 6 (form -5)
