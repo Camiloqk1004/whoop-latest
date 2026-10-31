@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-10-31 12:00)
+# Whoop snapshot (UTC 2026-10-31 12:30)
 
 Latest recovery (2026-10-30T11:21:12.129Z): score 93.0%, HRV 166.70958 ms, RHR 46.0 bpm
 Latest sleep (ended 2026-10-30T11:20:26.606Z): 6.48 h asleep, performance 80.0%, efficiency 91.34043%
@@ -34,7 +34,7 @@ Activities (Garmin via Intervals, newest first):
 Wellness by day (Whoop/Garmin via Intervals, newest first):
 - 2026-11-01: CTL 2 ATL 11 (form -9)
 - 2026-10-31: CTL 2 ATL 13 (form -11)
-- 2026-10-30: readiness 93.0, RHR 54, HRV 166.70958, SpO2 97.0, sleepScore 80.0, sleep 6.5 h, CTL 2 ATL 15 (form -13)
+- 2026-10-30: readiness 93.0, RHR 46, HRV 166.70958, SpO2 97.0, sleepScore 80.0, sleep 6.5 h, CTL 2 ATL 15 (form -13)
 - 2026-10-29: readiness 74.0, RHR 49, HRV 100.31538, SpO2 96.0, sleepScore 81.0, sleep 8.3 h, CTL 1 ATL 11 (form -10)
 - 2026-10-28: readiness 84.0, RHR 50, HRV 116.76482, SpO2 96.0, sleepScore 77.0, sleep 7.4 h, CTL 1 ATL 8 (form -7)
 - 2026-10-27: readiness 67.0, RHR 54, HRV 97.91389, SpO2 96.0, sleepScore 73.0, sleep 6.8 h, CTL 1 ATL 6 (form -5)
