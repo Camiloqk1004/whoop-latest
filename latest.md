@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-11-07 15:00)
+# Whoop snapshot (UTC 2026-11-07 15:30)
 
 Latest recovery (2026-10-30T11:21:12.129Z): score 93.0%, HRV 166.70958 ms, RHR 46.0 bpm
 Latest sleep (ended 2026-10-30T11:20:26.606Z): 6.48 h asleep, performance 80.0%, efficiency 91.34043%
@@ -15,7 +15,6 @@ Recent workouts:
 - 2026-10-25T22:58:46.665Z cycling strain 9.629303 avgHR 114
 - 2026-10-25T00:37:43.785Z soccer strain 16.75804 avgHR 140
 - 2026-10-24T22:39:39.730Z weightlifting strain 11.635835 avgHR 94
-- 2026-10-24T14:00:00.110Z soccer strain 14.2590065 avgHR 133
 
 Latest day strain: 11.212372 (cycle started 2026-10-30T04:12:18.718Z)
 
