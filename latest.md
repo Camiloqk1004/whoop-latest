@@ -1,9 +1,9 @@
-# Whoop snapshot (UTC 2026-11-09 13:00)
+# Whoop snapshot (UTC 2026-11-09 13:30)
 
 Latest recovery (2026-10-30T11:21:12.129Z): score 93.0%, HRV 166.70958 ms, RHR 46.0 bpm
 Latest sleep (ended 2026-10-30T11:20:26.606Z): 6.48 h asleep, performance 80.0%, efficiency 91.34043%
 
-7-record averages: recovery 75.4%, HRV 114.0 ms, RHR 50.6 bpm, sleep 7.3 h
+7-record averages: recovery 79.5%, HRV 120.4 ms, RHR 49.8 bpm, sleep 7.2 h
 
 Recent workouts:
 - 2026-10-30T12:17:00.700Z swimming strain 7.648504 avgHR 126
