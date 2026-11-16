@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-11-16 13:30)
+# Whoop snapshot (UTC 2026-11-16 14:00)
 
 
 7-record averages: recovery None%, HRV None ms, RHR None bpm, sleep None h
@@ -37,7 +37,7 @@ Activities (Garmin via Intervals, newest first):
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
 - 2026-11-17: CTL 6 ATL 28 (form -22)
-- 2026-11-16: RHR 57, CTL 7 ATL 32 (form -26)
+- 2026-11-16: RHR 52, CTL 7 ATL 32 (form -26)
 - 2026-11-15: RHR 57, CTL 7 ATL 37 (form -31)
 - 2026-11-14: RHR 55, HRV 62.0, sleepScore 42.0, sleep 3.8 h, CTL 7 ATL 32 (form -25)
 - 2026-11-13: RHR 54, HRV 61.0, sleepScore 53.0, sleep 7.4 h, CTL 6 ATL 27 (form -21)
