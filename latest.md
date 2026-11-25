@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-11-25 20:25)
+# Whoop snapshot (UTC 2026-11-25 23:35)
 
 
 7-record averages: recovery None%, HRV None ms, RHR None bpm, sleep None h
@@ -12,6 +12,8 @@ Note: today's recovery only exists after the athlete wakes and Whoop scores slee
 ## Intervals.icu (last 21 days)
 
 Activities (Garmin via Intervals, newest first):
+- 2026-11-25 17:13 Swim: 1.2 km, 27 min, 2:15/100m, avgHR 134 maxHR 165, load 15
+- 2026-11-25 16:02 WeightTraining: 0.0 km, 59 min, -, avgHR 101 maxHR 144, load 14
 - 2026-11-24 09:15 Run: 1.1 km, 8 min, 7:58/km, avgHR 134 maxHR 169, load 5
 - 2026-11-24 08:09 VirtualRide (indoor): 0.0 km, 54 min, -, avgHR 137 maxHR 163, load 34
 - 2026-11-17 15:50 WeightTraining: 0.0 km, 81 min, -, avgHR 90 maxHR 133, load 14
@@ -30,8 +32,8 @@ Activities (Garmin via Intervals, newest first):
 - 2026-11-04 18:09 WeightTraining: 0.0 km, 76 min, -, avgHR 92 maxHR 129, load 12
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
-- 2026-11-26: CTL 7 ATL 13 (form -7)
-- 2026-11-25: RHR 53, HRV 69.0, sleepScore 69.0, sleep 8.3 h, CTL 7 ATL 15 (form -9)
+- 2026-11-26: CTL 7 ATL 17 (form -10)
+- 2026-11-25: RHR 53, HRV 69.0, sleepScore 69.0, sleep 8.3 h, CTL 7 ATL 19 (form -12)
 - 2026-11-24: RHR 56, HRV 69.0, sleepScore 58.0, sleep 6.1 h, CTL 7 ATL 18 (form -11)
 - 2026-11-23: RHR 52, HRV 71.0, sleepScore 69.0, sleep 8.0 h, CTL 6 ATL 15 (form -8)
 - 2026-11-22: RHR 57, HRV 25.0, sleepScore 34.0, sleep 5.3 h, CTL 6 ATL 17 (form -10)
