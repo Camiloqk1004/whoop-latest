@@ -1,9 +1,9 @@
-# Whoop snapshot (UTC 2026-11-27 11:00)
+# Whoop snapshot (UTC 2026-11-27 11:30)
 
-Latest recovery (2026-11-26T13:53:49.125Z): score 47.0%, HRV 78.71518 ms, RHR 58.0 bpm
-Latest sleep (ended 2026-11-24T11:47:25.460Z): 6.28 h asleep, performance 75.0%, efficiency 90.39859%
+Latest recovery (2026-11-27T11:06:15.892Z): score 16.0%, HRV 38.51428 ms, RHR 68.0 bpm
+Latest sleep (ended 2026-11-27T10:43:40.760Z): 5.08 h asleep, performance 34.0%, efficiency 81.09075%
 
-7-record averages: recovery 29.8%, HRV 55.5 ms, RHR 61.2 bpm, sleep 5.7 h
+7-record averages: recovery 27.0%, HRV 52.1 ms, RHR 62.6 bpm, sleep 5.6 h
 
 Recent workouts:
 - 2026-11-27T01:33:19.761Z cycling strain 13.97385 avgHR 147
@@ -14,7 +14,7 @@ Recent workouts:
 - 2026-11-13T23:21:00.030Z hiit strain 17.75928 avgHR 158
 - 2026-11-13T22:27:00.010Z spin strain 8.378276 avgHR 137
 
-Latest day strain: 16.543879 (cycle started 2026-11-26T04:50:00.000Z)
+Latest day strain: 0.91059566 (cycle started 2026-11-27T04:27:40.000Z)
 
 Note: today's recovery only exists after the athlete wakes and Whoop scores sleep.
 
