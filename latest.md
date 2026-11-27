@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-11-27 19:52)
+# Whoop snapshot (UTC 2026-11-27 23:22)
 
 Latest recovery (2026-11-27T11:06:15.892Z): score 22.0%, HRV 42.324623 ms, RHR 67.0 bpm
 Latest sleep (ended 2026-11-27T11:57:25.831Z): 5.97 h asleep, performance 46.0%, efficiency 79.6332%
@@ -6,21 +6,22 @@ Latest sleep (ended 2026-11-27T11:57:25.831Z): 5.97 h asleep, performance 46.0%,
 7-record averages: recovery 25.5%, HRV 51.4 ms, RHR 62.8 bpm, sleep 5.3 h
 
 Recent workouts:
+- 2026-11-27T22:07:25.603Z running strain 12.893396 avgHR 150
 - 2026-11-27T01:33:19.761Z cycling strain 13.97385 avgHR 147
 - 2026-11-26T20:31:12.458Z weightlifting strain 11.761089 avgHR 103
 - 2026-11-24T14:15:00.600Z running strain 6.7761354 avgHR 122
 - 2026-11-24T13:11:00.600Z spin strain 11.288657 avgHR 136
 - 2026-11-14T10:26:00.690Z cycling strain 14.865285 avgHR 138
 - 2026-11-13T23:21:00.030Z hiit strain 17.75928 avgHR 158
-- 2026-11-13T22:27:00.010Z spin strain 8.378276 avgHR 137
 
-Latest day strain: 6.217853 (cycle started 2026-11-27T04:27:40.000Z)
+Latest day strain: 13.682506 (cycle started 2026-11-27T04:27:40.000Z)
 
 Note: today's recovery only exists after the athlete wakes and Whoop scores sleep.
 
 ## Intervals.icu (last 21 days)
 
 Activities (Garmin via Intervals, newest first):
+- 2026-11-27 17:07 VirtualRun (indoor): 3.4 km, 32 min, 10:31/km, avgHR 148 maxHR 181, load 21
 - 2026-11-26 20:30 VirtualRide (indoor): 0.0 km, 58 min, -, avgHR 150 maxHR 168, load 47
 - 2026-11-26 15:25 WeightTraining: 0.0 km, 61 min, -, avgHR 106 maxHR 139, load 15
 - 2026-11-25 17:13 Swim: 1.2 km, 27 min, 2:15/100m, avgHR 134 maxHR 165, load 15
@@ -40,8 +41,8 @@ Activities (Garmin via Intervals, newest first):
 - 2026-11-07 19:26 WeightTraining: 0.0 km, 79 min, -, avgHR 89 maxHR 142, load 12
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
-- 2026-11-28: CTL 8 ATL 19 (form -11)
-- 2026-11-27: readiness 22.0, RHR 67, HRV 42.324623, SpO2 92.0, sleepScore 46.0, sleep 6.0 h, CTL 8 ATL 22 (form -14)
+- 2026-11-28: CTL 8 ATL 21 (form -13)
+- 2026-11-27: readiness 22.0, RHR 59, HRV 42.324623, SpO2 92.0, sleepScore 46.0, sleep 6.0 h, CTL 8 ATL 24 (form -16)
 - 2026-11-26: RHR 56, HRV 64.0, sleepScore 65.0, sleep 6.6 h, CTL 8 ATL 25 (form -17)
 - 2026-11-25: RHR 53, HRV 69.0, sleepScore 69.0, sleep 8.3 h, CTL 7 ATL 19 (form -12)
 - 2026-11-24: readiness 47.0, RHR 58, HRV 78.71518, SpO2 95.0, sleepScore 75.0, sleep 6.3 h, CTL 7 ATL 18 (form -11)
