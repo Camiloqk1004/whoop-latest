@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-11-26 23:46)
+# Whoop snapshot (UTC 2026-11-27 01:00)
 
 Latest recovery (2026-11-26T13:53:49.125Z): score 47.0%, HRV 78.71518 ms, RHR 58.0 bpm
 Latest sleep (ended 2026-11-24T11:47:25.460Z): 6.28 h asleep, performance 75.0%, efficiency 90.39859%
@@ -13,7 +13,7 @@ Recent workouts:
 - 2026-11-13T23:21:00.030Z hiit strain 17.75928 avgHR 158
 - 2026-11-13T22:27:00.010Z spin strain 8.378276 avgHR 137
 
-Latest day strain: 11.885573 (cycle started 2026-11-26T04:50:00.000Z)
+Latest day strain: 11.886133 (cycle started 2026-11-26T04:50:00.000Z)
 
 Note: today's recovery only exists after the athlete wakes and Whoop scores sleep.
 
@@ -36,9 +36,9 @@ Activities (Garmin via Intervals, newest first):
 - 2026-11-08 07:41 Run: 2.6 km, 21 min, 7:55/km, avgHR 140 maxHR 149, load 13
 - 2026-11-08 05:32 Ride: 30.3 km, 92 min, 19.6 km/h, avgHR 148 maxHR 174, load 71
 - 2026-11-07 19:26 WeightTraining: 0.0 km, 79 min, -, avgHR 89 maxHR 142, load 12
-- 2026-11-05 07:23 Run: 4.1 km, 20 min, 4:53/km, avgHR 148 maxHR 179, load 16
 
 Wellness by day (Whoop/Garmin via Intervals, newest first):
+- 2026-11-28: CTL 7 ATL 14 (form -7)
 - 2026-11-27: CTL 7 ATL 16 (form -9)
 - 2026-11-26: RHR 56, HRV 64.0, sleepScore 65.0, sleep 6.6 h, CTL 7 ATL 19 (form -12)
 - 2026-11-25: RHR 53, HRV 69.0, sleepScore 69.0, sleep 8.3 h, CTL 7 ATL 19 (form -12)
@@ -48,4 +48,3 @@ Wellness by day (Whoop/Garmin via Intervals, newest first):
 - 2026-11-21: RHR 58, HRV 42.0, sleepScore 35.0, sleep 3.2 h, CTL 7 ATL 19 (form -13)
 - 2026-11-20: RHR 57, HRV 30.0, sleepScore 37.0, sleep 6.8 h, CTL 7 ATL 22 (form -16)
 - 2026-11-19: RHR 56, HRV 36.0, sleepScore 31.0, sleep 5.4 h, CTL 7 ATL 26 (form -19)
-- 2026-11-18: RHR 56, HRV 40.0, sleepScore 7.0, sleep 1.4 h, CTL 7 ATL 30 (form -23)
