@@ -1,4 +1,4 @@
-# Whoop snapshot (UTC 2026-11-28 11:00)
+# Whoop snapshot (UTC 2026-11-28 11:30)
 
 Latest recovery (2026-11-28T09:42:49.751Z): score 34.0%, HRV 58.475014 ms, RHR 62.0 bpm
 Latest sleep (ended 2026-11-28T09:42:31.790Z): 6.04 h asleep, performance 66.0%, efficiency 90.091934%
